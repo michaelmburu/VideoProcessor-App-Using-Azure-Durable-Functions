@@ -29,8 +29,7 @@ namespace VideoProcessor
                 Transcoded = transcodedLocation,
                 Thumbnail = thumbnalLocation,
                 WithIntro = withIntroLocation
-            };
-
+            }
         }
     }
 }
